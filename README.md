@@ -1,4 +1,4 @@
-**Email SMS Classifier -**
+**Email SPAM Classifier -**
 
 The Email SMS Classifier project focuses on building a machine learning model that can differentiate between email and SMS messages.
 This involves data preprocessing, feature extraction (such as using TF-IDF or word embeddings),
